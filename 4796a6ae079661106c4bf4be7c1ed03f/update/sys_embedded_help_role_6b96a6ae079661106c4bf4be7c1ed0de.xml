@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_909408_mimzynote.admin" name="x_909408_mimzynote.admin">eb96a6ae079661106c4bf4be7c1ed0dd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-22 14:59:26</sys_created_on>
+        <sys_id>6b96a6ae079661106c4bf4be7c1ed0de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eb96a6ae079661106c4bf4be7c1ed0dd</sys_name>
+        <sys_package display_value="MimzyNote" source="x_909408_mimzynote">4796a6ae079661106c4bf4be7c1ed03f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MimzyNote">4796a6ae079661106c4bf4be7c1ed03f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6b96a6ae079661106c4bf4be7c1ed0de</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-22 14:59:26</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
