@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="e0c52c4707d261106c4bf4be7c1ed0a7" sys_domain="global" table="x_909408_mimzynote_note" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_909408_mimzynote_note</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-23 18:53:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0c52c4707d261106c4bf4be7c1ed0a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_909408_mimzynote_note</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MimzyNote" source="x_909408_mimzynote">4796a6ae079661106c4bf4be7c1ed03f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MimzyNote">4796a6ae079661106c4bf4be7c1ed03f</sys_scope>
+            <sys_update_name>sys_ui_section_e0c52c4707d261106c4bf4be7c1ed0a7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-23 18:53:23</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MimzyNote">4796a6ae079661106c4bf4be7c1ed03f</application>
+        <file_path/>
+        <instance_id>70b7387ddba8bb0049eac59705961912</instance_id>
+        <instance_name>dev78277</instance_name>
+        <name>sys_ui_section_e0c52c4707d261106c4bf4be7c1ed0a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="e0c52c4707d261106c4bf4be7c1ed0a7" sys_domain="global" table="x_909408_mimzynote_note" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_909408_mimzynote_note</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-23 18:53:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e0c52c4707d261106c4bf4be7c1ed0a7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_909408_mimzynote_note</sys_name><sys_overrides/><sys_package display_value="MimzyNote" source="x_909408_mimzynote">4796a6ae079661106c4bf4be7c1ed03f</sys_package><sys_policy/><sys_scope display_value="MimzyNote">4796a6ae079661106c4bf4be7c1ed03f</sys_scope><sys_update_name>sys_ui_section_e0c52c4707d261106c4bf4be7c1ed0a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-23 18:53:23</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-417271010</payload_hash>
+        <record_name>Note</record_name>
+        <reverted_from/>
+        <source>9e2d547a07d221106c4bf4be7c1ed04f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 18:53:23</sys_created_on>
+        <sys_id>6cc52c4707d261106c4bf4be7c1ed0a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187af76afef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 18:53:23</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>2cc52c47f6d26110ff233a720335b6a9</update_guid>
+        <update_guid_history>2cc52c47f6d26110ff233a720335b6a9:-417271010</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 18:55:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>c688df2f0ece4f47a99c0244586519d1</sys_id>
+        <sys_metadata>e0c52c4707d261106c4bf4be7c1ed0a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_909408_mimzynote_note</sys_name>
+        <sys_package display_value="MimzyNote" source="x_909408_mimzynote">4796a6ae079661106c4bf4be7c1ed03f</sys_package>
+        <sys_parent display_value="">1db52c4707d261106c4bf4be7c1ed0b9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MimzyNote">4796a6ae079661106c4bf4be7c1ed03f</sys_scope>
+        <sys_scope_delete display_value="">8b47e6c727c544188f06b616b5cd4440</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e0c52c4707d261106c4bf4be7c1ed0a7</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e0c52c4707d261106c4bf4be7c1ed0a7">6cc52c4707d261106c4bf4be7c1ed0a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 18:55:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

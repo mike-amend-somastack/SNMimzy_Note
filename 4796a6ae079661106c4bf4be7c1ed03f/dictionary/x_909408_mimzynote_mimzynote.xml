@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="fd07aeae079661106c4bf4be7c1ed059" label="MimzyNote" max_length="40" name="x_909408_mimzynote_mimzynote" type="collection">
-        <element label="Notes" mandatory="true" max_length="150" name="notes" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-    </element>
-</database>

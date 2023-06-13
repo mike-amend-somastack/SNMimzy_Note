@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5166a88707d261106c4bf4be7c1ed076" label="Notebook" max_length="40" name="x_909408_mimzynote_notebook" text_index="true" type="collection">
+        <element label="Note" mandatory="true" max_length="400" name="note" type="string"/>
+        <element label="Reminder" max_length="255" name="reminder" type="glide_date_time"/>
+        <element label="Tags" max_length="40" name="tags" type="string"/>
+        <element label="New Insert Timestamp" max_length="40" name="u_insert_timestamp_2" type="insert_timestamp"/>
+    </element>
+</database>

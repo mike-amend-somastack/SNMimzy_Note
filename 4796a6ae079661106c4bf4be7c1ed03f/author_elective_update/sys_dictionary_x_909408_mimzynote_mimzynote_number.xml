@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="number" table="x_909408_mimzynote_mimzynote">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Number</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value>javascript:global.getNextObjNumberPadded();</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>number</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_909408_mimzynote_mimzynote</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-22 15:01:14</sys_created_on>
+        <sys_id>8207aeae079661106c4bf4be7c1ed085</sys_id>
+        <sys_name>Number</sys_name>
+        <sys_package display_value="MimzyNote" source="x_909408_mimzynote">4796a6ae079661106c4bf4be7c1ed03f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MimzyNote">4796a6ae079661106c4bf4be7c1ed03f</sys_scope>
+        <sys_update_name>sys_dictionary_x_909408_mimzynote_mimzynote_number</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-22 15:01:14</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MimzyNote">4796a6ae079661106c4bf4be7c1ed03f</application>
+        <file_path/>
+        <instance_id>70b7387ddba8bb0049eac59705961912</instance_id>
+        <instance_name>dev78277</instance_name>
+        <name>sys_dictionary_x_909408_mimzynote_mimzynote_number</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="number" table="x_909408_mimzynote_mimzynote"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Number</column_label><comments/><create_roles/><default_value>javascript:global.getNextObjNumberPadded();</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>number</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_909408_mimzynote_mimzynote</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-04-22 15:01:14</sys_created_on><sys_id>8207aeae079661106c4bf4be7c1ed085</sys_id><sys_name>Number</sys_name><sys_package display_value="MimzyNote" source="x_909408_mimzynote">4796a6ae079661106c4bf4be7c1ed03f</sys_package><sys_policy/><sys_scope display_value="MimzyNote">4796a6ae079661106c4bf4be7c1ed03f</sys_scope><sys_update_name>sys_dictionary_x_909408_mimzynote_mimzynote_number</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-04-22 15:01:14</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-2084832248</payload_hash>
+        <record_name>MimzyNote.Number</record_name>
+        <reverted_from/>
+        <source>ab96a6ae079661106c4bf4be7c1ed0dc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-22 15:01:14</sys_created_on>
+        <sys_id>1a07aeae079661106c4bf4be7c1ed09f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187a97bca520000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-22 15:01:14</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>9e07aeaec5966110838e443454e9029e</update_guid>
+        <update_guid_history>9e07aeaec5966110838e443454e9029e:-2084832248</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 18:52:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>0581313b7bd34fc0beed0127e47c9000</sys_id>
+        <sys_metadata>8207aeae079661106c4bf4be7c1ed085</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Number</sys_name>
+        <sys_package display_value="MimzyNote" source="x_909408_mimzynote">4796a6ae079661106c4bf4be7c1ed03f</sys_package>
+        <sys_parent display_value="">fd07aeae079661106c4bf4be7c1ed059</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MimzyNote">4796a6ae079661106c4bf4be7c1ed03f</sys_scope>
+        <sys_scope_delete display_value="">8b47e6c727c544188f06b616b5cd4440</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_909408_mimzynote_mimzynote_number</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_909408_mimzynote_mimzynote_number">1a07aeae079661106c4bf4be7c1ed09f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 18:52:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
